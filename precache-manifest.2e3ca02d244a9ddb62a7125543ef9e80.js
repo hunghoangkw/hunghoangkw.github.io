@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4bc4cdcb71d4fa22fdff50dface67b61",
+    "revision": "a11db73deced126c865725b88a55d3ba",
     "url": "/index.html"
   },
   {
-    "revision": "5d14ebbe4d2f64a27481",
+    "revision": "9d002bc84a40ea295d17",
     "url": "/static/css/main.19a7923e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.1e0c50eb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5d14ebbe4d2f64a27481",
-    "url": "/static/js/main.945648a0.chunk.js"
+    "revision": "9d002bc84a40ea295d17",
+    "url": "/static/js/main.29bee514.chunk.js"
   },
   {
     "revision": "718b162186fb690ea25e",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/illustration-section-02.63d0555d.svg"
   },
   {
-    "revision": "52fc82b3ef2dd0ee1504f94448b4b621",
-    "url": "/static/media/jalong.52fc82b3.jpg"
+    "revision": "becfa5ed2d74394f6c0f1920254f3ee3",
+    "url": "/static/media/jalong.becfa5ed.png"
   },
   {
     "revision": "a99d89f629f663e228e4045bb395da2e",
@@ -88,11 +88,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/logo_KW_Vietnam_Transparent.ea35f681.png"
   },
   {
-    "revision": "505ced2bb8139e02e291ad73af1ab4d7",
-    "url": "/static/media/mainguyen.505ced2b.jpg"
+    "revision": "3bd22e3d6660da6f286d9be0eb6ff4a1",
+    "url": "/static/media/mainguyen.3bd22e3d.png"
   },
   {
-    "revision": "40bbdc4cbad0517b0db11d40dc77bfac",
-    "url": "/static/media/thangle.40bbdc4c.jpg"
+    "revision": "69409044c08e26bd8862e9315cde54d8",
+    "url": "/static/media/thangle.69409044.png"
   }
 ]);
